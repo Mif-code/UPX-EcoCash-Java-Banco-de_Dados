@@ -46,6 +46,8 @@ A plataforma permite que usuários registrem ações de reciclagem, acumulem pon
 
 ---
 
+Link Figma: https://www.figma.com/proto/fRbqeVbkWUckEszqiyfhex/Prot%C3%B3tipo-App-Ecocash
+
 ## Autor
 
 Moises Ferreira
